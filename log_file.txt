@@ -1,0 +1,4 @@
+{('myf.txt', 1): [1, 2], ('myf.txt', 4): [2, 3], ('myf.txt', 2): [3, 4], ('myf.txt', 3): [4, 1], ('myf.txt', 5): [1, 2]}
+['myf.txt']
+{'myf.txt': 5}
+{'myf.txt': 0}
